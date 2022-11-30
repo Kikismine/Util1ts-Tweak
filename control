@@ -1,0 +1,9 @@
+Package: com.kikismine.util1ts
+Name: Util1ts
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Upgrade for iPhone features
+Maintainer: Kikismine
+Author: Kikismine
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
